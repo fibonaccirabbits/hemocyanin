@@ -15,7 +15,7 @@ Your tasks, should you choose to accept it:
 2. Visualize the distribution of ```paratope``` length.
 	* Use ```R```.
 	* Install ```themeakbar```. [Get themeakbar here](https://github.com/fibonaccirabbits/themeakbar/tree/master/gallery). 
-	* See ```example_paratope_length.pdf```.
+	* See [```example_paratope_length.pdf```](example_paratope_length.pdf).
 3. Complete all tasks in 30 minutes.
 
 Have fun coding!\
