@@ -1,7 +1,7 @@
 # Welcome to the Hemocyanin.
 
 
-** The following covers basic I/O, stats, data visualization, and 3rd party library installation. **
+**The following covers basic I/O, stats, data visualization, and 3rd party library installation.**
 
 Your task, should you choose to accept it:
 
@@ -18,5 +18,5 @@ Your task, should you choose to accept it:
 3. Complete all tasks in 30 minutes.
 
 Have fun coding!\
-Rahmad
+Rahmad, Fareed, Su Datt, Sylvia, Nazlina.
 
