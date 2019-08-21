@@ -1,12 +1,12 @@
-# Welcome to the Hemocyanin.
+# Welcome to Hemocyanin.
 
 
 **The following covers basic I/O, stats, data visualization, and 3rd party library installation.**
 
-Your task, should you choose to accept it:
+Your tasks, should you choose to accept it:
 
 * Clone this repo.
-* Complete the task in ```Python``` and/or ```R```.
+* Complete the tasks in ```Python``` and/or ```R```.
 1. Using ```heavy_light_ag_aaseq.csv``` as input, output a summary file in comma-separated value (CSV) format.
 	* Use ```Python``` or ```R```.
 	* Use column ```h_species```.
