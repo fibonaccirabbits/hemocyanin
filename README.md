@@ -10,11 +10,12 @@ Your task, should you choose to accept it:
 1. Using ```heavy_light_ag_aaseq.csv``` as input, output a summary file in comma-separated value (CSV) format.
 	* Use Python or R.
 	* Use column ```h_species```.
-	* Content headers: Species, # sequences, and % sequeunces. See example_output.csv.
+	* Content headers: Species, # sequences, and % sequences. 
+	* See example_output.csv.
 2. Visualize the distribution of ```paratope``` length.
-	* Use R
-	* Install themeakbar (get themeakbar) 
-	* See example_paratope_length.pdf 
+	* Use R.
+	* Install themeakbar. [Get themeakbar here] (https://github.com/fibonaccirabbits/themeakbar/tree/master/gallery). 
+	* See example_paratope_length.pdf.
 3. Complete all tasks in 30 minutes.
 
 Have fun coding!\
