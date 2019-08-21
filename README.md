@@ -3,7 +3,7 @@
 
 **The following covers basic I/O, stats, data visualization, and 3rd party library installation.**
 
-Your tasks, should you choose to accept it:
+Your tasks, should you choose to accept them:
 
 * Clone this repo.
 * Complete the tasks in ```Python``` and/or ```R```.
