@@ -11,7 +11,7 @@ Your tasks, should you choose to accept it:
 	* Use ```Python``` or ```R```.
 	* Use column ```h_species```.
 	* Content headers: ```Species```, ```# sequences```, and ```% sequences```. 
-	* See ```example_output.csv```.
+	* See [```example_output.csv```](example_output.csv).
 2. Visualize the distribution of ```paratope``` length.
 	* Use ```R```.
 	* Install ```themeakbar```. [Get themeakbar here](https://github.com/fibonaccirabbits/themeakbar/tree/master/gallery). 
